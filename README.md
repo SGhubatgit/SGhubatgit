@@ -1,18 +1,20 @@
 # Hi 👋, I'm Sunny Gautam
 
-### 🚀 Full Stack Developer | 💻 CSE Student | 🌱 Lifelong Learner
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">🚀 Full Stack Developer | 💻 CSE Student | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Java+%7C+Python+%7C+MERN;Open+Source+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Java+%7C+Python+%7C+MERN;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ## 💫 About Me
 
-🎓 Computer Science Engineering student at **Parul University**
+🎓 Computer Science Engineering Student at **Parul University**
 
 💻 Passionate about **Software Development, Web Development, and Problem Solving**
 
@@ -21,6 +23,20 @@
 🌱 Currently learning **Data Structures & Algorithms, MERN Stack, Backend Development, and Machine Learning**
 
 🤖 Interested in **Artificial Intelligence, Full Stack Development, and Open Source**
+
+🏆 Built projects like **Crop Disease Prediction**, **Healthcare Management System**, and modern web applications.
+
+🎯 Aspiring Software Engineer focused on creating impactful and scalable software solutions.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -37,7 +53,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sunny-gautam-3b830031b/" target="blank">
+<a href="https://www.linkedin.com/in/sunny-gautam-3b830031b/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -89,9 +105,9 @@
 ## 🌟 Featured Projects
 
 ### 🌱 Crop Disease Prediction
-AI-powered crop disease prediction system that helps farmers identify diseases early and improve agricultural productivity.
+AI-powered crop disease prediction system that helps farmers identify crop diseases and improve agricultural productivity.
 
-### 🏥 HealthCare - Hospital Management System
+### 🏥 Healthcare Management System
 A healthcare platform for managing patients, appointments, prescriptions, and hospital workflows.
 
 ### 🖼️ Wallpaper Gallery Application
@@ -101,26 +117,36 @@ Responsive wallpaper gallery built using HTML, CSS, and JavaScript.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SGhubatgit&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SGhubatgit&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGhubatgit&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SGhubatgit&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SGhubatgit&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SGhubatgit&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=SGhubatgit&theme=tokyonight&no-frame=true)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SGhubatgit&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
 ## 📈 Profile Views
 
-![](https://komarev.com/ghpvc/?username=SGhubatgit&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SGhubatgit&style=for-the-badge&color=blue"/>
+</p>
 
 ---
 
 ### ⚡ Fun Fact
 
-> "Code, Learn, Build, Repeat 🚀"
+> "Code. Learn. Build. Repeat. 🚀"
+
+---
+⭐ If you like my work, consider giving a star to my repositories!
