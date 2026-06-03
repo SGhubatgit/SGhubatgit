@@ -32,7 +32,8 @@
 
 <td width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b3f4d64-4f6e-4c3e-a640-c2cb0c6a8d73.gif" width="320"/>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212744275-2b3f4d64-4f6e-4c3e-a640-c2cb0c6a8d73.gif" width="320"/> -->
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212744275-2b3f4d64-4f6e-4c3e-a640-c2cb0c6a8d73.gif">
 
 </td>
 </tr>
